@@ -1,2 +1,3 @@
 # warp10-uuid
-Warp 10 Plugin
+
+Generate various UUIDs from WarpScript

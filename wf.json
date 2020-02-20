@@ -1,0 +1,15 @@
+{
+  "type": "ext",
+  "group": "com.arkea",
+  "artifact": "warp10-uuid",
+  "version": "0.0.1",
+  "description": "Generate various UUIDs from WarpScript",
+  "author": "Julien Girard",
+  "email": "julien.girard@arkea.com",
+  "license": "Apache-2.0",
+  "git": "https://github.com/CreditMutuelArkea/warp10-uuid",
+  "repoUrl": "WhatIsThat",
+  "tags": [
+    "uuid"
+  ]
+}
